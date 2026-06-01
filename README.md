@@ -73,6 +73,14 @@ I am interested in improving the analyzability, maintainability, and scalability
 
 ---
 
+## Project Status
+
+VEXA is currently an active research prototype exploring configuration-driven frontend architecture approaches for large-scale Vue.js applications.
+
+The project focuses on feasibility studies, dependency analysis, and architecture modeling rather than production-ready deployment.
+
+---
+
 ## Links
 
 * GitHub: https://github.com/Cozymyz
