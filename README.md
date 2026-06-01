@@ -76,7 +76,7 @@ I am interested in improving the analyzability, maintainability, and scalability
 ## Links
 
 * GitHub: https://github.com/Cozymyz
-* Research Lab: https://plp-www.csis.oita-u.ac.jp/
+* Research Lab: [https://plp-www.csis.oita-u.ac.jp/](https://plp-www.csis.oita-u.ac.jp/ja/)
 
 <!--
 **Cozymyz/Cozymyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
