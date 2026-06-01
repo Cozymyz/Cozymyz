@@ -17,7 +17,7 @@ Researching software architecture, dependency analysis, and tooling for large-sc
 
 ## Current Research Projects
 
-### VEXA
+### Vexa
 
 Configuration-driven frontend architecture framework for large-scale Vue.js applications.
 
@@ -75,7 +75,7 @@ I am interested in improving the analyzability, maintainability, and scalability
 
 ## Project Status
 
-VEXA is currently an active research prototype exploring configuration-driven frontend architecture approaches for large-scale Vue.js applications.
+Vexa is currently an active research prototype exploring configuration-driven frontend architecture approaches for large-scale Vue.js applications.
 
 The project focuses on feasibility studies, dependency analysis, and architecture modeling rather than production-ready deployment.
 
